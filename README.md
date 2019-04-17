@@ -9,6 +9,7 @@ Features:
 - Bar Plot
 - Up to 15 harmonics
 - Automated scaling
+- THDf and THDr 
 - Brazillian Portuguese (pt_BR) interface 
 
 Binaries:
