@@ -1,13 +1,14 @@
-rCCALC[X] - Complex Calculator
-------------------------------
+rHarmonic[X] - Harmonics Plotter
+--------------------------------
 
-This is a python3/tk written calculator software to make operations with complex numbers.
+This is a python3/tk software that plots harmonic sines waves.
 
 Features:
-- Rectangular -> Polar conversion
-- Polar -> Rectangular conversion
-- Engineering mode awnsers
-- Summation, Subtract, Multiply and Divide operations
+- Plot of individual waves
+- Plot of summed waves
+- Bar Plot
+- Up to 15 harmonics
+- Automated scaling
 - Brazillian Portuguese (pt_BR) interface 
 
 Binaries:
