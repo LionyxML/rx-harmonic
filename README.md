@@ -17,6 +17,7 @@ Binaries:
 
 Screenshot
 ----------
+![Main Screen Animation - Linux](images/2.gif)
 ![Main Screen - Windows](images/1.png)
 
 
