@@ -3,6 +3,8 @@
 # Programa: Programa para visualização e compreensão de sinais harmônicos
 # Autor   : Rahul Martim Juliato
 # Versão  : 0.1  -  05.11.2018
+# Versão  : 0.2  -  29.12.2019 - renomeado para rx-harmonic (antigo rharmonicx)
+
 
 
 #---===[0. Bibliotecas]===---
@@ -25,16 +27,17 @@ def quit():
 def sobre():
     """ Mostra as informações do programa
     """
-    mb.showinfo("r[HARMONIC]X",'''
+    mb.showinfo("rx-harmonic",'''
 
-    r[HARMONIC]X
+    rx-harmonic
 
 Programa para compreensão de sinais harmônicos.
 
-Versão: 0.1
+Versão: 0.2
 
-Autor: Rahul Martim Juliato
-(rahul.juliato@gmail.com)
+Rahul Martim Juliato
+rahul.juliato@gmail.com
+www.rahuljuliato.com
 
 ''')
 
@@ -280,7 +283,7 @@ def grafico_soma():
 #---===[2. Início da geração da Janela]===---
 # 2.0. Definições principais da janela
 janela = tk.Tk()
-janela.wm_title('r[HARMONIC]X v0.1')
+janela.wm_title('rx-harmonic  v0.2')
 janela.wm_minsize(600,500)
 janela.grid_anchor(anchor='c')
 #janela.tk_setPalette('white')

@@ -1,5 +1,5 @@
-rHarmonic[X] - Harmonics Plotter
---------------------------------
+rx-harmonic - Harmonics Plotter
+-------------------------------
 
 This is a python3/tk software that plots harmonic sines waves.
 
